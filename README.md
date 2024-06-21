@@ -3,5 +3,7 @@ olan hataları fixledim yeni botculara hayırlı olsun.
 
 sunucunuzun afişi olmazsa, ship ile welcome çalışmaz. sunucunun boostunu 14 seviye yapınız.
 
-.yardım komutu kaldırıldı onun yerine .kısayollar kullanınız daha iyi.
+.yardım komutu kaldırın onun yerine .kısayollar kullanınız daha iyi.
+
+.kurulum yapıp emojileri indirmezsen hiç bir komut çalışmaz ilk adım /safe slash komut ile moderatör botuna full yetki verip .kurulum dan emojileri ve logları kur.
 
